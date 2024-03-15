@@ -1,5 +1,3 @@
-<p align="center"><img src="/images/xsvscyb3r@gmail.com.png" alt="Master of IT" width="200"/></p>
-
 ## ADVANCED ETHICAL HACKER TOOLS
 
 --- 
